@@ -9,7 +9,7 @@ description: "This is our company website. You can edit this line in _config.yml
 
 # Team names, titles and social links
 people:
-- name: Me Myself and I
+- name: Me Myself and...
   pic: 1
   doing: lalala
   social:
