@@ -1,5 +1,5 @@
-url: https://github.com/sstroth/ghpages-test
-baseurl: /ghpages-test
+url: 'https://github.com/sstroth/ghpages-test'
+baseurl: '/ghpages-test'
 
 # Site settings
 title: Awesome Title
