@@ -11,14 +11,25 @@ description: "This is our company website. You can edit this line in _config.yml
 people:
 - name: Me Myself and I
   pic: 1
-  doing: lalala
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+  doing: 
+    Quantitative Analyses
+    Topics
+    -- E-Commerce
+    -- Retail
+    -- Marketing
+    --Social Media
+    Applications
+    -- Dashboarding
+    -- Research Studies
+    --Live-Monitoring
+
+#  social:
+#    - title: twitter
+#      url: #
+#    - title: facebook
+#      url: #
+#    - title: stack-overflow
+#      url: #
 
 - name: IB
   pic: 2
